@@ -45,7 +45,7 @@ Your contributions are highly valuable in maintaining a secure GitHub environmen
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE.md). See the LICENSE file for details.
 
 ---
 
