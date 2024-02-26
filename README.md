@@ -1,7 +1,19 @@
 # GitHub Phishing Notifications 
 ## Introduction
+Attackers leverage GitHub mention mail notification system for #phishing attacks against GitHub users. 
+On 26 February 2024, I woke up with an email from GitHub that seemed pretty accurate. 
 
-This repository is dedicated to raising awareness and notifying GitHub users about phishing attacks that may target them. Phishing attacks are malicious attempts to deceive individuals into disclosing sensitive information, such as usernames, passwords, or other personal details. By leveraging GitHub's platform, we aim to create a community-driven space where users can quickly share information about phishing attempts and protect themselves and others.
+It seemed like a mail from GitHub, and at first glance, I did not realize that it was phishing. However, I analyzed it better, and I discovered a recent phishing attack through GitHub.  
+A recent attack was discovered a week before: 
+https://github.com/orgs/community/discussions/109171
+
+The aim of this repository is to use the same technique used by attackers for notifying phishing victims quickly via email: 
+
+I have provided more information on our blog and Medium: 
+- https://secsi.io/blog/attackers-leverages-github-mention-mail-notification-systems-for-phishing-attacks/
+- https://medium.com/@g.per45/attackers-leverage-the-github-mention-mail-notification-system-for-phishing-attacks-c269dab219f3
+
+
 
 ## Table of Contents
 
